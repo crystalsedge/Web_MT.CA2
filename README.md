@@ -17,9 +17,15 @@ https://github.com/crystalsedge/local-file-explorer.git
 
  
 References
+
 DeBeasi, L. (2022, December 12). Announcing Ionic v6.4. Ionic Blog. https://ionic.io/blog/announcing-ionic-v6-4
+
 Digamber. (2020, November 23). How to Switch on Device GPS in Ionic 6 without Leaving App. PositronX.io. https://www.positronx.io/switch-on-device-gps-in-ionic-without-leaving-application/
+
 Grimm, S. (n.d.). Build Better Apps | Devdactic. Devdactic.com. Retrieved December 23, 2022, from https://devdactic.com/
+
 Ionic. (2020). Ionic Framework - Ionic Documentation. Ionic Docs. https://ionicframework.com/docs
+
 npmjs.com. (n.d.). About npm | npm Docs. Docs.npmjs.com. https://docs.npmjs.com/about-npm
+
 The Apache Software Foundation. (n.d.). Android Platform Guide - Apache Cordova. Cordova.apache.org. Retrieved December 20, 2022, from https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
