@@ -2,14 +2,15 @@
    
        <ion-toolbar>
       <ion-title>
-        Turn on Device GPS
+        Allow Turn on Device GPS
       </ion-title>
     </ion-toolbar>
-
+   
   <ion-content [fullscreen]="true">
+    <app-tab3>
     <div id="container">
       <ion-button color="danger" (click)="chckAppGpsPermission()">
-        Get GPS Locaction
+        Get Locaction
       </ion-button>
       <ion-row>
         <ion-col>Longitude</ion-col>
@@ -28,6 +29,6 @@
         <ion-col>{{locCords.timestamp | date:'medium'}}</ion-col>
       </ion-row>
     </div>
-    <app-tab3></app-tab3>
+  </app-tab3>
   </ion-content>
 </ion-header>
